@@ -1,3 +1,3 @@
-import stramlit as st
+import streamlit as st
 st.title('제갈준최고')
 st.write('제갈')
